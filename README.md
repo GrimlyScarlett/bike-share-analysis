@@ -1,15 +1,12 @@
-
 Bike Share Initiative Analysis
-Overview
+Overview:
 This R project conducts a comprehensive analysis of a dataset concerning a bike sharing initiative. It delves into the psychological factors influencing participation in the program while also examining its environmental impact.
 
-File Structure
+File Structure:
 Script: final_project_analysis.r
 Data File: final_project_data.csv
 
-
-Analysis
-The script encompasses the following analyses:
+Analysis:
 
 Bike Share Analysis: Examines the proportion of bike shares in the dataset.
 Messaging Analysis: Investigates the proportion of different messaging types in the data.
@@ -33,17 +30,13 @@ One-Way ANOVA with APA Table (Bike Share): Conducts a one-way ANOVA on bike shar
 One-Way ANOVA with APA Table (Messaging): Conducts a one-way ANOVA on messaging and miles.
 Interaction Plot: Plots an interaction plot of enrollment condition, messaging condition, and miles biked.
 
-
-Libraries Used
-The script utilizes the following R libraries:
+Libraries used: 
 
 psych
 apaTables
 effsize
 DescTools
 
-
-How to Run
 To execute the script:
 
 Open it in an R environment.
